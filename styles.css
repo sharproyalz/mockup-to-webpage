@@ -1,0 +1,253 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #FFF8F0;
+}
+
+h1 {
+    font-family: League Spartan;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #190D37;
+}
+
+h2 {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-bottom: 8px;
+
+}
+
+h3 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #291854;
+}
+
+h4 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 10px 0;
+}
+
+.big-letters {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #331E6A;
+}
+
+.small-letters {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    margin-bottom: 8px;
+    color: #2858FF;
+}
+
+.small-description-letters {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #190D37;
+    margin-bottom: 48px;
+}
+
+#hero-section {
+    display: flex;
+    max-width: 1150px;
+    padding: 0 6px;
+    margin: 0 auto;
+}
+
+#hero-info {
+    width: 50%;
+    padding: 20px 20px 0 0;
+}
+
+#contact-info {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+#contact-info img {
+    height: 16px;
+    width: 16px;
+    margin-bottom: -4px;
+}
+
+#hi-im {
+    margin-top: 40px;
+}
+
+#hero-info h1 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#hero-info button {
+    margin-top: 20px;
+    width: 138px;
+    height: 44px;
+    top: 456px;
+    border-radius: 4px;
+    background: #2F2F2F;
+    color: #ffffff;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+#hero-info button:hover {
+    background: #ffffff;
+    color: #2F2F2F;
+}
+
+#hero-image {
+    width: 50%;
+}
+
+#hero-image img {
+    width: 100%;
+}
+
+#dev-experience {
+    margin-top: 96px;
+    ;
+    text-align: center;
+}
+
+#dev-experience-description {
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+
+
+
+#dev-experience-box {
+    display: flex;
+    max-width: 1150px;
+    margin: 0 auto;
+
+}
+
+.dev-exp-letters {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #55206D;
+}
+
+#frontend-box {
+    width: 33.33%;
+    height: 291pxpx;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+}
+
+#backend-box {
+    width: 33.33%;
+    height: 291pxpx;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+
+}
+
+#interface-box {
+    width: 33.33%;
+    height: 291pxpx;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+
+}
+
+#project-infos {
+    text-align: center;
+    max-width: 700px;
+    margin: 98px auto 0 auto;
+}
+
+#project-more-info {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.projects {
+    display: flex;
+}
+
+.project-descriptions {
+    margin-left: 20px;
+}
+
+.project-images img {
+    width: 130px;
+    height: 130px;
+}
+
+.project-letters {
+    margin: 8px 0;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #55206D;
+}
+
+.project-links {
+    color: #6A87A3;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.right-arrows {
+    width: 8.4px;
+    height: 7px;
+}
+
+.proj-1,
+.proj-2 {
+    margin-bottom: 30px;
+}
+
+.proj-3 {
+    margin-bottom: 125px;
+}
+
+#footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+}
+
+#footer-text {
+    padding: 29px 0;
+}
