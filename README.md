@@ -1,3 +1,3 @@
 Static.app link
 
-https://pleasant-kitten.static.app/mockup-to-web-page/index.html
+https://sharp-royals.static.app/mockup-to-web-page/index.html
