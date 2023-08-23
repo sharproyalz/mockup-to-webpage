@@ -70,18 +70,18 @@ h4 {
 
 #hero-section {
     display: flex;
-    max-width: 1150px;
+    max-width: 1060px;
     padding: 0 6px;
     margin: 0 auto;
 }
 
 #hero-info {
     width: 50%;
-    padding: 20px 20px 0 0;
+    padding: 30px 20px 0 0;
 }
 
 #contact-info {
-    font-family: Poppins;
+    font-family: Roboto;
     font-size: 12px;
     font-weight: 400;
     line-height: 14px;
@@ -94,12 +94,12 @@ h4 {
 }
 
 #hi-im {
-    margin-top: 40px;
+    margin-top: 49px;
 }
 
 #hero-info h1 {
     margin-top: 10px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 #hero-info button {
@@ -110,6 +110,7 @@ h4 {
     border-radius: 4px;
     background: #2F2F2F;
     color: #ffffff;
+    cursor: pointer;
 
     font-family: Inter;
     font-size: 16px;
@@ -127,12 +128,12 @@ h4 {
 }
 
 #hero-image img {
+    height: 600px;
     width: 100%;
 }
 
 #dev-experience {
     margin-top: 96px;
-    ;
     text-align: center;
 }
 
@@ -142,13 +143,10 @@ h4 {
 
 }
 
-
-
 #dev-experience-box {
     display: flex;
-    max-width: 1150px;
+    max-width: 1060px;
     margin: 0 auto;
-
 }
 
 .dev-exp-letters {
@@ -189,7 +187,7 @@ h4 {
 }
 
 #project-more-info {
-    max-width: 1150px;
+    max-width: 1060px;
     margin: 0 auto;
 }
 
@@ -201,10 +199,33 @@ h4 {
     margin-left: 20px;
 }
 
-.project-images img {
-    width: 130px;
-    height: 130px;
+.project-images-template {
+    padding: 40px;
+    border-radius: 10px;
+
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+
 }
+
+.template-1 {
+    background-color: #19ACFF;
+    color: #ffffff;
+}
+
+.template-2 {
+    background-color: #FFE819;
+    color: #000000;
+}
+
+.template-3 {
+    background-color: #FF1919;
+    color: #ffffff;
+
+}
+
 
 .project-letters {
     margin: 8px 0;
